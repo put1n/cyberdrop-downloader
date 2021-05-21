@@ -1,0 +1,5 @@
+wget~=3.2
+requests~=2.24.0
+beautifulsoup4~=4.9.3
+lxml~=4.6.3
+aiohttp~=3.7.4.post0
